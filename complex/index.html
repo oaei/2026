@@ -1,0 +1,321 @@
+<html><head>
+  
+  <title>Ontology Alignment Evaluation Initiative::Complex track</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="track_files/style.css"></head><body>
+
+<div class="header">
+<a style="color: grey; line-height: 5mm;" href="http://oaei.ontologymatching.org/2026/">Ontology
+  Alignment Evaluation Initiative - OAEI-2026
+  Campaign</a><a href="http://oaei.ontologymatching.org/"><img src="track_files/oaeismall.jpg" alt="OAEI" style="border-style: none; float: right; margin-left: 5pt;"></a>
+  <a href="http://www.seals-project.eu/">
+  <img width="200px" src="track_files/seals-logo.jpg" alt="OAEI" style="clear:right;float:right; margin-left: 5pt; border-style:none;"></a>
+</div>
+
+<!--<div class="yellowbar">The results of the OAEI 2026, for the Complex track are available <a href="https://oaei.ontologymatching.org/2026/results/complex/index.html">here</a></div>-->
+
+
+<h1>Complex track</h1>
+
+<h2>General description</h2>
+
+<p>Complex alignments are more expressive than simple alignments as their correspondences can contain logical constructors or transformation functions of literal values.</p>
+
+For example, given two ontologies <i>o1</i> and <i>o2</i>:
+<ul>
+<li>A correspondence stating that: <i>Forall x, o1:AcceptedPaper(x) = Exists y, o2:acceptedBy(x,y)</i> is a complex correspondence with a logical constructor (property restriction);</li>
+<li>A correspondence stating that: <i>Forall x,y, o1:authorOf(x,y) = o2:writtenBy(y,x)</i> is a complex correspondence with a logical constructor (inverse property);</li>
+<li>A correspondence stating that: The values of the <i>o1:fullName</i> property can be obtained by concatenating the values of <i>o2:firstName</i> and <i>o2:lastName</i> is a complex correspondence with a transformation function of literal values (string concatenation).</li>
+</ul>
+
+<p>With this track, we evaluate systems which can generate such correspondences.</p>
+
+<p>The complex track contains eight datasets from various domain: <a href="#conference">Conference</a>, <a href="#popconf">Populated Conference</a>, <a href="#hydrography">Hydrography</a>, <a href="#geolink">GeoLink</a>, <a href="#popgeolink">Populated GeoLink</a>, <a href="#popenslaved">Populated Enslaved</a>, and <a href="#bioemdical">Biomedical</a>. Each of the datasets and corresponding evaluation methods are presented below.</p>
+
+<p>The participants of the track should output their (complex) correspondences in the <a href="http://alignapi.gforge.inria.fr/edoal.html">EDOAL</a> format. This format is supported by <a href="http://alignapi.gforge.inria.fr/edoal.html#sec:support">the Alignment API</a>. The evaluation will be supported by the MELT framwork this year. The participants have to wrap their tool as described at <a href="https://github.com/dwslab/melt">MELT framework</a>. For executing the tasks in each dataset the parameters are listed in boxes below (repository, suite-id, version-id).</p>
+
+<p>The number of ontologies, simple (1:1) and complex (1:n), (m:n) correspondences for each dataset of this track are summarized in the following table.</p>
+
+<table border="1" cellspacing="0">
+  <tbody><tr>
+    <th>Dataset</th>
+    <th>#Ontologies</th>
+    <th>#(1:1)</th>
+    <th>#(1:n)</th>
+    <th>#(m:n)</th>
+  </tr>
+  <tr>
+    <td>Conference</td>
+    <td>3</td>
+    <td>78</td>
+    <td>79</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Populated Conference</td>
+    <td>5</td>
+    <td>111</td>
+    <td>86</td>
+    <td>98</td>
+  </tr>
+    <tr>
+    <td>Hydrography</td>
+    <td>4</td>
+    <td>113</td>
+    <td>69</td>
+    <td>15</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>GeoLink</td>
+    <td>2</td>
+    <td>19</td>
+    <td>5</td>
+    <td>43</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Populated GeoLink</td>
+    <td>2</td>
+    <td>19</td>
+    <td>5</td>
+    <td>43</td>
+  </tr>
+  </tr>
+    <tr>
+    <td>Populated Enslaved</td>
+    <td>2</td>
+    <td>15</td>
+    <td>0</td>
+    <td>83</td>
+  </tr>
+ <tr>
+    <td>Taxon</td>
+    <td>4</td>
+    <td>6</td>
+    <td>17</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Biomedical</td>
+    <td>17</td>
+    <td>-</td>
+    <td>15627</td>
+    <td>0</td>
+  </tr>
+</tbody></table>
+
+<!--<h2>Results</h2>
+Results are available <a href="https://oaei.ontologymatching.org/2026/results/complex/index.html">here</a>
+-->
+<a name="schedule"><h2>Schedule</h2></a>
+
+The schedule is available at the <a href="https://oaei.ontologymatching.org/2026/index.html#schedule">OAEI main page</a>.
+
+<a name="datasets"><h2>Datasets and Evaluation Modalities</h2></a>
+
+All datasets and references can be found at <a href="https://github.com/liseda-lab/complex-OM-benchmark">https://github.com/liseda-lab/complex-OM-benchmark</a>.
+
+<a name="conference"><h3>Conference dataset</h3></a>
+
+<h4>Ontologies and correspondences</h4>
+<p>This dataset is based on the OntoFarm dataset [1] used in the <a href="http://oaei.ontologymatching.org/2018/conference/index.html">Conference track</a>
+ of the OAEI campaigns. It is composed of 16 ontologies on the conference organisation domain and simple reference alignments between 7  of them. Here, we consider 3 out of the 7 ontologies from the reference alignments (<a href="https://oaei.ontologymatching.org/2026/conference/data/cmt.owl"><i>cmt</i></a>, <a href="https://oaei.ontologymatching.org/2026/conference/data/Conference.owl"><i>conference</i></a> and <a href="https://oaei.ontologymatching.org/2026/conference/data/ekaw.owl"><i>ekaw</i></a>), resulting in 3 alignment pairs.</p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">Conference Testsuite</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">conference</span></li>
+	<li>Version-ID: <span class="testsuiteid">conference-v1</span></li>
+</ul>
+</div>
+<p></p>
+
+<p>The correspondences were manually curated by 3 experts following the query rewriting methodology in [2]. For each pair o1-o2 of ontologies, the following steps were applied:</p>
+<ul>
+<li>Create a simple equivalence consensus alignment: ra1 was slightly modified.</li>
+<li>For each entity e1 of o1 not in a simple equivalence correspondence,  find a semantically equivalent construction from o2 entities. If no equivalence can be found, look for the closest entity or construction from o2 subsumed by e1.</li>
+<li>Repeat previous step for each entity of o2 (constructions from o1 entities)</li>
+</ul>
+<p>4 experts assessed the curated correspondences to reach a consensus.</p>
+
+
+<a name="popconf"><h3>Populated Conference dataset</h3></a>
+<p>In order to allow matchers which rely on instances to participate over the Conference complex track, we propose a populated version of the Conference dataset. 5 ontologies have been populated with more or less common instances resulting in 6 datasets: (6 versions on the repository: v0, v20, v40, v60, v80 and v100). </p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">Populated Conference Testsuite</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">popconf</span></li>
+	<li>Version-ID: <span class="testsuiteid">popconf-v0, popconf-v20, popconf-v40, popconf-v60, popconf-v80, popconf-v100</span></li>
+</ul>
+</div>
+<p></p>
+
+<a name="hydrography"><h3>Hydrography dataset</h3></a>
+<h4>Ontologies and correspondences</h4>
+<p>The hydrography dataset is composed of four source ontologies, which are Hydro3, HydrOntology_native, HydrOntology_translated, and Cree, that each should be aligned to a single target Surface Water Ontology (SWO). The source ontologies vary in their similarity to the target ontology -- Hydro3 is similar in both language and structure, hydrOntology is similar in structure but is in Spanish rather than English, and Cree is very different in terms of both language and structure.</p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">Hydrography</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">hydrography</span></li>
+	<li>Version-ID: <span class="testsuiteid">hydrography-v1</span></li>
+</ul>
+</div>
+<p></p>
+
+<p>The alignments were created by a geologist and an ontologist, in consultation with a native Spanish speaker regarding the hydrOntology, and consist of logical relations.</p>
+
+<h4>Tasks</h4>
+<p>There are three subtasks in the Hydrography complex alignment track: </p>
+
+<ol>
+<li><b>Entity Identification</b> 
+<p>For each entity in the source ontology, the alignment system is asked to list all of the entities in the target ontologies that are related 
+to it in some way.</p>
+<p>For example:
+</p><p>owl:equivalentClasses(ont1:A1 owl:intersectionOf(ont2:B1 owl:someValuesFrom(ont2:B2 ont2:B3)) </p>
+<p>The goal in this task is to find the most relevant entities in the ont2 to the class <i>ont1:A1</i>. In this case, the best output would be <i>ont2:B1</i>, <i>ont2:B2</i>, and <i>ont2:B3</i>.</p>
+</li>
+
+<li><b>Relationship Identification</b>
+<p>For each alignmnet, the system should then endeavor to find the concrete relationships, such as equivalence, subsumption, intersection, value restriction, and so on, that hold between the entities. In terms of the example above, an alignment system needs to eventually determine that the relationship between the two sides is equivalence.</p>
+
+</li><li><b>Full complex alignment Identification</b> 
+<p>This task is a combination of the two former steps. </p>
+</li>
+</ol>
+
+<a name="geolink"><h3>GeoLink dataset</h3></a>
+<h4>Ontologies and correspondences</h4>
+<p>This dataset is from the <a href="https://www.geolink.org/">GeoLink project</a>, which was funded under the U.S. National Science Foundation's EarthCube
+ initiative. It is composed of two ontologies: the GeoLink Base Ontology (GBO) and the GeoLink Modular Ontology (GMO). The GeoLink project is a real-world use case of ontologies, and its instance data is available. The alignment between the two ontologies was developed in consultation with domain experts from several geoscience research institutions. This alignment is a slightly simplified version of the one discussed in [4]. The relations that involve punning have been removed due to a concern that many automated alignment systems would not consider these as potential mappings. More details can be found in [4]. </p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">GeoLink</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">geolink</span></li>
+	<li>Version-ID: <span class="testsuiteid">geolink-v1</span></li>
+</ul>
+</div>
+<p></p>
+
+<h4>Tasks</h4>
+The same three subtasks as described for the <a href="#hydrography">hydrography</a> dataset apply to this dataset also.
+
+<a name="popgeolink"><h3>Populated Geolink dataset</h3></a>
+<h4>Ontologies and correspondences</h4>
+<p>In order to allow alignment systems that rely on the instance data to participate over the Geolink complex track, we also generate a populated version of the Geolink dataset. The instance data are from real-worlds and collected from seven data repositories in the Geolink project. More details of the populated geolink dataset can be found in [8].</p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">GeoLink</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">popgeolink</span></li>
+	<li>Version-ID: <span class="testsuiteid">popgeolink-v1</span></li>
+</ul>
+</div>
+<p></p>
+
+<h4>Tasks</h4>
+The same three subtasks as described for the <a href="#hydrography">hydrography</a> dataset apply to this dataset also.
+
+<a name="popenslaved"><h3>Populated Enslaved dataset</h3></a>
+<h4>Ontologies and correspondences</h4>
+<p>This dataset is from the <a href="http://enslaved.org/">Enslaved project</a>, which was funded under The Andrew w. Mellon Foundation. It is composed 
+of two resources: the Enslaved Ontology and the Enslaved Wikidata Knowledge Graph. The Enslaved project is a real-world use case of ontologies in pepple of historic slave trade domain, and its instance data is available and already incorporated into <a href="https://lod.enslaved.org/wiki/Meta:Main_Page">Wikidata repository</a>. The alignment between the two resources was developed in consultation with domain experts from several historian research institutions. More details of the populated enslaved dataset can be found in [9].</p>
+
+<p>
+</p><div class="testsuite">
+<span class="title">Populated Enslaved</span>
+<ul>
+	<li>Repository: <span class="testsuiteid">http://oaei.webdatacommons.org/tdrs/</span></li>
+	<li>Suite-ID: <span class="testsuiteid">popenslaved</span></li>
+	<li>Version-ID: <span class="testsuiteid">popenslaved-v1</span></li>
+</ul>
+</div>
+<p></p>
+
+<h4>Tasks</h4>
+The same three subtasks as described for the <a href="#hydrography">hydrography</a> dataset apply to this dataset also.
+
+<a name="biomedical"><h3>Biomedical dataset</h3></a>
+<h4>Ontologies and correspondences</h4>
+<p>This dataset was constructed from the existing logical definitions in three biomedical ontologies: Human Phenotype ontology (HP), Mammalian Phenotype ontology (MP), and Worm Phenotype ontology (WBP). Logical definitions are 1:n complex mappings that use multiple target ontologies in their construction and therefore this task serves as a complex multi-ontology matching (CMOM) challenge.</p>
+<p>Both HP and MP have the same set of target ontologies: Cell ontology (CL), Chemical Entities of Biological Interest (ChEBI), Gene Ontology (GO), Phenotype and Trait Ontology (PATO), and Uber Anatomy Ontology (UBERON). WBP uses ChEBI, GO, PATO, and the <i>C.elegans</i> Gross Anatomy Ontology (WBbt).</p>
+<p>The reference constructs can be found at <a href="https://ieee-dataport.org/documents/reference-alignments-biomedical-complex-multi-ontology-matching-tasks-hp-mp-wbp">https://dx.doi.org/10.21227/btb7-yd20</a> [13].</p>
+
+<h2>Evaluation modalities</h2>
+
+All datasets and references can be found at <a href="https://github.com/liseda-lab/complex-OM-benchmark">https://github.com/liseda-lab/complex-OM-benchmark</a>.
+
+<h3>Conference dataset</h3>
+<p>The complex correspondences output by the systems will be manually compared to the ones of the consensus alignment.</p>
+<p>For this first evaluation, only <i>equivalence</i> correspondences will be evaluated and the confidence of the correspondenes will not be taken into account. </p>
+<p>The systems can take the ra1 simple alignments as input. The ra1 alignments can be downloaded <a href="https://oaei.ontologymatching.org/2026/conference/data/reference-alignment.zip">here</a>.</p>
+
+<h3>All other datasets</h3>
+<p>Complex constructs were evaluated based on whether they use the expected correct classes from the reference mapping and on the Graph Edit Distance (GED) necessary to transform the generated mapping into the reference mapping.</p>
+
+<p><b>Class correction:</b></p>
+<p>Partial correctness was assessed by extracting the classes used in the generated mapping and comparing them to the reference classes, following an adaptation of the class evaluation described in [8]. Each mapping is sorted into one of the following categories: i) <i>correct</i>, all classes match, ii) <i>contained in reference</i>, generated classes are completely contained within the set of reference classes, iii) <i>contains reference</i>, reference classes are completely contained within the set of generated classes, iv) <i>overlap</i>, some classes are shared between the sets, and v) incorrect, there are no shared classes in between the two sets. This metric evaluates all mappings: simple 1:1, complex 1:n, and complex n:m.</p>
+
+<p><b>Graph Edit Distance (GED):</b></p>
+<p>To assess both the class selection and their combination into a complex construct, each mapping is converted into a graph (an example is shown in Figure 1) and the graph edit distance from generated mapping to reference mapping is computed. This is performed using the NetworkX package [9] and follows the equations and strategies outlined in [10]. This metric evaluates simple 1:1 mappings and complex 1:n mappings.</p>
+
+<img src="track_files/GED_example.png">
+<p>Figure 1 - Graph conversion of the logical definition HP_0008183 “decreased circulating cortisol level” from the Human Phenotype ontology [11].</p>
+
+<p><b>Tree Edit Distance (TED)</b></p>
+<p>The other evaluation metric used is proposed in ref[12]. This metric compares the matcher proposed alignment with the reference alignment using Tree Edit Distance (TED) and finds the most similar pairs of correspondences using an assignment algorithm. The metric also follows desired properties for complex matching evaluation based on reference alignments.</p>
+
+<h2>Organizers</h2>
+
+<ul>
+
+<li>Cassia Trojahn (IRIT, Toulouse, France), cassia [.] trojahn [at] irit [.] fr</li>
+<li>Ondřej Zamazal (University of Economics, Prague), ondrej [.] zamazal [at] vse [.] cz</li>
+<!--<li>Marta Silva (University of Lisbon), mcdsilva [at] fc [.] ul [.] pt</li>
+<li>Guilheme Sousa (IRIT, Toulouse, France), Guilherme [.] Santos [-] Sousa [at] irit.fr</li>-->
+</ul>
+
+<h2>References</h2>
+
+<p>[1] Ondřej Zamazal, Vojtěch Svátek. The Ten-Year OntoFarm and its Fertilization within the Onto-Sphere. Web Semantics: Science, Services and Agents on the World Wide Web, 43, 46-53. 2017.</p>
+
+<p>[2] Élodie Thiéblin, Ollivier Haemmerlé, Nathalie Hernandez, Cassia Trojahn. Task-Oriented Complex Ontology Alignment: Two Alignment Evaluation Sets. In : European Semantic Web Conference. Springer, Cham, 655-670, 2018.</p>
+
+<p>[3] Élodie Thiéblin, Fabien Amarger, Nathalie Hernandez, Catherine Roussey, Cassia Trojahn. Cross-querying LOD datasets using complex alignments: an application to agronomic taxa. In: Research Conference on Metadata and Semantics Research. Springer, Cham, 25-37, 2017.</p>
+
+<p>[4] Lu Zhou, Michelle Cheatham, Adila Krisnadhi, Pascal Hitzler. A Complex Alignment Benchamark: GeoLink Dataset. In: International Semantic Web Conference. Springer, Proceedings, Part II, pp. 273-288, 2018.</p>
+
+<p>[5] Marc Ehrig, and Jérôme Euzenat. "Relaxed precision and recall for ontology matching." K-CAP 2005 Workshop on Integrating Ontologies, Banff, Canada, 2005.</p>
+
+<p>[6] Élodie Thiéblin. Do competency questions for alignment help fostering complex correspondences?. In EKAW Doctoral Consortium, 2018.</p>
+
+<p>[7] Élodie Thiéblin, Fabien Amarger, Ollivier Haemmerlé, Nathalie Hernandez, Cassia Trojahn. Rewriting SELECT SPARQL queries from 1:n complex correspondences. In: Ontology Matching, pp. 49-60, 2016.</p>
+
+<p>[8] Silva, M. C., Faria, D., & Pesquita, C. (2024). Complex Multi-Ontology Alignment Through Geometric Operations on Language Embeddings. In ECAI 2024 (pp. 1333–1340). IOS Press. https://doi.org/10.3233/FAIA240632</p>
+
+<p>[9] Aric A. Hagberg, Daniel A. Schult and Pieter J. Swart, “Exploring network structure, dynamics, and function using NetworkX”, in Proceedings of the 7th Python in Science Conference (SciPy2008), Gäel Varoquaux, Travis Vaught, and Jarrod Millman (Eds), (Pasadena, CA USA), pp. 11–15, Aug 2008</p>
+
+<p>[10] Silva, M. C., Faria, D., & Pesquita, C. (2025). CMOMgen: Complex Multi-Ontology Alignment via Pattern-Guided In-Context Learning (No. arXiv:2510.21656). arXiv. https://doi.org/10.48550/arXiv.2510.21656</p>
+
+<p>[11] Gargano MA <i>et al.</i>, The Human Phenotype Ontology in 2024: phenotypes around the world. Nucleic Acids Res. 2024 Jan 5;52(D1):D1333-D1346. doi: 10.1093/nar/gkad1005. PMID: 37953324; PMCID: PMC10767975., https://doi.org/10.1093/nar/gkad1005</p>
+
+<p>[12] Santos Sousa, G., Lima, R., Trojahn, C. (2025). On Evaluation Metrics for Complex Matching Based on Reference Alignments. In: Curry, E., et al. The Semantic Web. ESWC 2025. Lecture Notes in Computer Science, vol 15718. Springer, Cham. https://doi.org/10.1007/978-3-031-94575-5_5</p>
+
+<p>[13] Marta Silva, Daniel Faria, Catia Pesquita, "Reference Alignments for biomedical Complex Multi-Ontology Matching tasks (HP, MP, WBP)", IEEE Dataport, September 3, 2025, doi:10.21227/btb7-yd20 </p>
+
+</body></html>
