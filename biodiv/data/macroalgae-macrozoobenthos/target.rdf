@@ -1,0 +1,3832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/"
+	xmlns:grddl="http://www.w3.org/2003/g/data-view#"
+	xmlns:wgs="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gn="http://www.geonames.org/ontology#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:fn="http://www.w3.org/2005/xpath-functions#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dct="http://purl.org/dc/terms/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:sesame="http://www.openrdf.org/schema/sesame#"
+	xmlns:luc="http://www.ontotext.com/owlim/lucene#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdf4j="http://rdf4j.org/schema/rdf4j#">
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/">
+	<rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Ontology"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_243">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_256">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_185">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_255">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits">
+	<dc:title>Macrozoobenthos Traits Thesaurus</dc:title>
+	<dc:description></dc:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Special:ExportRDF/Traits:Cylindrical"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0001256"/>
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Bodylength"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0015039"/>
+	<rdfs:isDefinedBy rdf:resource="http://t-sita.cesab.org/BETSI_vizInfo.jsp?trait=Body_width"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0000027"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<rdfs:isDefinedBy rdf:resource="http://www.expertglossary.com/definition/fresh-weight"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0015039"/>
+	<rdfs:isDefinedBy rdf:resource="http://purl.org/obo/owlATOL_0000351"/>
+	<rdfs:isDefinedBy rdf:resource="http://t-sita.cesab.org/BETSI_vizInfo.jsp?trait=Body_width"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:VermiformUnsegmented"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:VermiformAnnulated"/>
+	<rdfs:isDefinedBy rdf:resource="http://www.marlin.ac.uk/biotic/glossaries.php#growthform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:VermiformSegmented"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0000001"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<rdfs:isDefinedBy rdf:resource="http://t-sita.cesab.org/BETSI_vizInfo.jsp?trait=Dry_body_weight"/>
+	<rdfs:isDefinedBy rdf:resource="http://vocabs.lter-europe.net/EnvThes/msa0337"/>
+	<rdfs:isDefinedBy rdf:resource="http://www.biology-online.org/dictionary/Dry_mass"/>
+	<rdfs:isDefinedBy rdf:resource="http://www.expertglossary.com/food-biotechnology/definition/dry-weight"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<rdfs:isDefinedBy rdf:resource="http://crustacea.academic.ru/321/cephalic_dorsal_length"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<rdfs:isDefinedBy rdf:resource="http://t-sita.cesab.org/BETSI_vizInfo.jsp?trait=Fresh_body_weight"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<rdfs:isDefinedBy rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Filiform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<rdfs:isDefinedBy rdf:resource="https://terms.tdwg.org/wiki/mst:bodySizeMax"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<rdfs:isDefinedBy rdf:resource="http://crustacea.academic.ru/271/carapace_length"/>
+	<rdfs:isDefinedBy rdf:resource="http://txmarspecies.tamug.edu/crustglossary.cfm"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<rdfs:isDefinedBy rdf:resource="http://purl.obolibrary.org/obo/VT_0001253"/>
+	<rdfs:isDefinedBy rdf:resource="http://purl.org/obo/owlATOL_0000350"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<rdfs:seeAlso rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Vermiform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<rdfs:seeAlso rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Medusiform"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<rdfs:seeAlso rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Stellate"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<rdfs:seeAlso rdf:resource="http://www.marinespecies.org/traits/wiki/Traits:Globose"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<skos:definition xml:lang="en">Preferring or living in a well-lighted habitat</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<skos:definition xml:lang="en">The distance from the most anterior margin of the jaw to its posterior margin. </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:definition xml:lang="en">The distance from the anterior margin of prostomium to the end of pygidium (excluding antennae and cirri).
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<skos:definition xml:lang="en">Plate-like erect</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<skos:definition xml:lang="en">Body with straight sides and a circular section.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:definition xml:lang="en">The body length measure of a specifc taxonomic group.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:definition xml:lang="en">The distance along the major axis of the body of an organism.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:definition xml:lang="en">The measurement of the total body length of the individual.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:definition xml:lang="en">The distance from the tip of the shell spire to the end of the anterior canal with the aperture facing up.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:definition xml:lang="en">The distance from the most anterior part of the head (excluding the antennae) to the end of the abdomen (excluding anal prolegs and cerci).
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:definition xml:lang="en">The measurement of the total body length of the individual.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:definition xml:lang="en">The measurement of the total body length of the individual.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:definition xml:lang="en">Maximum distance on the anterior–posterior axis.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:definition xml:lang="en">The distance from the anterior part of the head to the end of the last abdominal segment.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:definition xml:lang="en">The measurement of the total body length of the individual.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<skos:definition xml:lang="en">Preferring or living in a shaded habitat</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:definition xml:lang="en">The body width measure of a specific taxonomic group.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:definition xml:lang="en">The distance measured perpendicularly to the length axis.
+ 
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<skos:definition xml:lang="en">Measurement of the major axis of a massive sponge</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:definition xml:lang="en">The measurement across the widest part of the body (excluding the head or appendages).
+ 
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:definition xml:lang="en">Maximum distance on the lateral axis.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<skos:definition xml:lang="en">The distance across the widest protion of the pronotum.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:definition xml:lang="en">The distance across the widest portion of the head (including eyes).
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:definition xml:lang="en">The weight of the preserved animal obtained after external fluid removal on filter paper.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:definition xml:lang="en">Any measurable characteristic related to the body weight of an organism.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<skos:definition xml:lang="en">Body elongated, cylindrical and worm-like.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<skos:definition xml:lang="en">Body worm-like not divided into a chain of rings or 'annuli'. </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<skos:definition xml:lang="en">Body worm-like but lacking true segments although annuli may be present, e.g. roundworms (Nematoda) and ribbon worms (Nemertea).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<skos:definition xml:lang="en">Body worm-like divided into semi-independent, serially repeated units e.g. Annelida.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<skos:definition xml:lang="en">One of the small, hard, calcareous or siliceous bodies that serve as the skeletal elements of various marine and freshwater invertebrates. </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:definition xml:lang="en">The distance, in lateral view, from the anterior most dorsal articulation of the pleotelson to its posterior tip.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:definition xml:lang="en">A measure of animal energetic state, so an animal in good conditions has higher energy reserves (usually fat) than an animal in poor condition.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<skos:definition xml:lang="en">Any measurable phenotypic characteristic (shape and size) of an organism, which is relatively simple to measure, easily observable and with a potentially well-defined relation to physiology and ecology.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<skos:definition xml:lang="en">The external shape of colonial/pseudocolonial/altro organisms</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<skos:definition xml:lang="en">Measurement of the maximum height of a massive or erect sponge
+</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:definition xml:lang="en">The body height measure of a specific taxonomic group.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<skos:definition xml:lang="en">Any morphological, physiological, phenological or behavioral trait, which impacts macrozoobenthos fitness.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<skos:definition xml:lang="en">Any measurable or observable characteristic related to macrozoobenthos species.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:definition xml:lang="en">The width of the dorsum in the centre of 6th setiger (excluding parapodia and bristles).
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<skos:definition xml:lang="en">Any measurable or observable characteristic of an organism.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:definition xml:lang="en">Dry weight after chemical or mecanical removal of shell.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:definition xml:lang="en">The weight obtained after prolonged oven-drying to remove the water content.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<skos:definition xml:lang="en">The distance from the anterior margin of the rostrum to the posterior margin of the head.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:definition xml:lang="en">The wet weight of an unpreserved organism.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<skos:definition xml:lang="en">Surface appearing dotted because of microscopic pores</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:definition xml:lang="en">The distance between the first postorbital spines of the carapace.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<skos:definition xml:lang="en">Erect, branching habit, tree-like in appearance</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<skos:definition xml:lang="en">General term for having a vertical (away from substrate)
+growth strategy</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<skos:definition xml:lang="en">Deeply divided, finger-like outgrowths from basal mass</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<skos:definition xml:lang="en">Body dorso-ventrally depressed.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<skos:definition xml:lang="en">Massive shape, with a broad base and large central depression</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:definition xml:lang="en">The AFDW is the dry weight (inorganic + organic contents) minus the weight of the ash (inorganic contents only) obtained after combustion at high temperature.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:definition xml:lang="en">Morphological characteristic, easy to measure, conspicuous, ecologically important, related to the overall physical magnitude of an organism, comparable across taxa and extremely variable through time and space.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<skos:definition xml:lang="en">Shape of solid, erect cylinder</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<skos:definition xml:lang="en">Cup shaped</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<skos:definition xml:lang="en">Funnel shaped</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<skos:definition xml:lang="en">Body disk, bell or umbrella shaped and often gelatinous.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<skos:definition xml:lang="en">Body laterally compressed.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<skos:definition xml:lang="en">growing on a peduncle or a stalk. </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<skos:definition xml:lang="en">Club shaped</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<skos:definition xml:lang="en">Body is dorso-ventrally depressed and flattened.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<skos:definition xml:lang="en">Body arranged like a star.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<skos:definition xml:lang="en">Body approximately spherical, ovoid or globular.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<skos:definition xml:lang="en">Body slender and thread-like.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<skos:definition xml:lang="en">The distance from the most anterior part of the head (excluding the antennae) to the posterior margin of the head capsule.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<skos:definition xml:lang="en">The distance from the most anterior margin of the prostomium to the posterior margin of chaetiger 1.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<skos:definition xml:lang="en">Surface with alternating parallel ridges and grooves</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<skos:definition xml:lang="en">Thin, sheet-like coating of the substrate</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<skos:definition xml:lang="en">Large, compact structure without definable shape</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<skos:definition xml:lang="en">The maximum observed body size for the species.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:definition xml:lang="en">The distance from the anterior edge of the rostrum to the posterior edge of the third pereional segment.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:definition xml:lang="en">The distance from the tip of the rostrum to the end of the carapace.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<skos:definition xml:lang="en">The distance from the most anterior part of the head (rostrum or the posterior margin of the orbit) to the end of carapace.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<skos:definition xml:lang="en">Surface with long and scattered spicular projections</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<skos:definition xml:lang="en">Surface with numerouse cone-shaped projections (raised up by underlying skeleton in porifera)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<skos:definition xml:lang="en">Surface with polygonal pattern of ridges</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<skos:definition xml:lang="en">Surface bearing papillae</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<skos:definition xml:lang="en">Surface covered by numerous circular ectosomal area</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<skos:definition xml:lang="en">Surface without any roughness, lumps, or holes</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<skos:definition xml:lang="en">surface with scattered, stiff, and sharp spicular or fiber projections</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<skos:definition xml:lang="en">Having a rough and ridged surface</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<skos:definition xml:lang="en">Surface with dense, short (spicular) projections, feeling soft and smooth to the touch</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:definition xml:lang="en">The width of the dorsum in the centre of 10th setiger (excluding parapodia).
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:definition xml:lang="en">The vertical dimension of the body of an organism, usually measured from the bottom line to the topline.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:definition xml:lang="en">The basal diameter along rostro-carinal axis.
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:definition xml:lang="en">Maximum distance on the dorsal-ventral axis. 
+ </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<skos:definition xml:lang="en">Volume of each specimen normally quoted in cubic millimetres 
+</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<skos:definition xml:lang="en">Measure of the thickness (in mm) of the layer covering the substrate in encrusting growth forms
+</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<skos:definition xml:lang="en">The distance from the most anterior part of pronotum to its posterior margin.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<skos:definition xml:lang="en">Any elongated, thread-like structure which forms the skeleton of an animal (e.g. spongin fibres) </skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<skos:definition xml:lang="en">Furrowed with longitudinal or meandering parallel channels</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:scopeNote xml:lang="en">mg</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<skos:scopeNote xml:lang="en">mm
+</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<skos:scopeNote xml:lang="en">mm</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_243">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_256">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_185">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_255">
+	<skos:inScheme rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits">
+	<skos:hasTopConcept rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<skos:prefLabel xml:lang="en">Photophilous</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<skos:prefLabel xml:lang="en">Environmental position</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<skos:prefLabel xml:lang="en">Jaw Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:prefLabel xml:lang="en">Polychaeta Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<skos:prefLabel xml:lang="en">Lamellate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<skos:prefLabel xml:lang="en">Body Shape</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229">
+	<skos:prefLabel xml:lang="en">Epizoic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<skos:prefLabel xml:lang="en">Cylindrical</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:prefLabel xml:lang="en">Taxon Specific Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:prefLabel xml:lang="en">Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:prefLabel xml:lang="en">Nematomorpha Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:prefLabel xml:lang="en">Gastropoda Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:prefLabel xml:lang="en">Insecta Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:prefLabel xml:lang="en">Hirudinea Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:prefLabel xml:lang="en">Oligochaeta Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:prefLabel xml:lang="en">Bivalvia Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:prefLabel xml:lang="en">Crustacea Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:prefLabel xml:lang="en">Nematoda Body Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228">
+	<skos:prefLabel xml:lang="en">Lithotomous</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230">
+	<skos:prefLabel xml:lang="en">Epiphythic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226">
+	<skos:prefLabel xml:lang="en">Epilithic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<skos:prefLabel xml:lang="en">Sciaphilous</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225">
+	<skos:prefLabel xml:lang="en">Hyperbenthic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224">
+	<skos:prefLabel xml:lang="en">Interstitial</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231">
+	<skos:prefLabel xml:lang="en">Parasitic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227">
+	<skos:prefLabel xml:lang="en">Endolithic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<skos:prefLabel xml:lang="en">Behavioural trait</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222">
+	<skos:prefLabel xml:lang="en">Epibenthic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223">
+	<skos:prefLabel xml:lang="en">Endobenthic</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:prefLabel xml:lang="en">Taxon Specific Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:prefLabel xml:lang="en">Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<skos:prefLabel xml:lang="en">Crustacea Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<skos:prefLabel xml:lang="en">Porifera Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:prefLabel xml:lang="en">Insecta Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<skos:prefLabel xml:lang="en">Polychaeta Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:prefLabel xml:lang="en">Bivalvia Body Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<skos:prefLabel xml:lang="en">Pronotum Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:prefLabel xml:lang="en">Head Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:prefLabel xml:lang="en">Wet Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:prefLabel xml:lang="en">Body Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<skos:prefLabel xml:lang="en">Vermiform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<skos:prefLabel xml:lang="en">Vermiform unsegmented</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<skos:prefLabel xml:lang="en">Vermiform annulated</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<skos:prefLabel xml:lang="en">Vermiform segmented</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<skos:prefLabel xml:lang="en">Spicules</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<skos:prefLabel xml:lang="en">Microstructure</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:prefLabel xml:lang="en">Pleotelson Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_243">
+	<skos:prefLabel xml:lang="en">Perforating</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234">
+	<skos:prefLabel xml:lang="en">Boring</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:prefLabel xml:lang="en">Body Condition</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<skos:prefLabel xml:lang="en">Morphological Trait</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236">
+	<skos:prefLabel xml:lang="en">Globular</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<skos:prefLabel xml:lang="en">Growth Forms</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<skos:prefLabel xml:lang="en">Porifera Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:prefLabel xml:lang="en">Taxon Specific Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<skos:prefLabel xml:lang="en">Functional Trait</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<skos:prefLabel xml:lang="en">Macrozoobenthos Trait</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:prefLabel xml:lang="en">6th Setiger Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<skos:prefLabel xml:lang="en">Trait</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:prefLabel xml:lang="en">Shell Free Dry Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:prefLabel xml:lang="en">Dry Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<skos:prefLabel xml:lang="en">Cephalic Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:prefLabel xml:lang="en">Fresh Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<skos:prefLabel xml:lang="en">Punctate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<skos:prefLabel xml:lang="en">Body External Surface</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<skos:prefLabel xml:lang="en">First Thoracic Segment Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:prefLabel xml:lang="en">Carapace Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<skos:prefLabel xml:lang="en">Arborescent</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<skos:prefLabel xml:lang="en">Erect</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<skos:prefLabel xml:lang="en">Digitate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<skos:prefLabel xml:lang="en">Depressiform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<skos:prefLabel xml:lang="en">Crateriform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:prefLabel xml:lang="en">Ash Free Dry Weight</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:prefLabel xml:lang="en">Body Size</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<skos:prefLabel xml:lang="en">Columnar</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<skos:prefLabel xml:lang="en">Caliculate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<skos:prefLabel xml:lang="en">Infundibuliform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<skos:prefLabel xml:lang="en">Medusiform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<skos:prefLabel xml:lang="en">Compressiform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<skos:prefLabel xml:lang="en">Pedunculate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<skos:prefLabel xml:lang="en">Clavate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<skos:prefLabel xml:lang="en">Flattened</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<skos:prefLabel xml:lang="en">Stellate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<skos:prefLabel xml:lang="en">Globose</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<skos:prefLabel xml:lang="en">Filiform</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<skos:prefLabel xml:lang="en">Head Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219">
+	<skos:prefLabel xml:lang="en">Eroder</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<skos:prefLabel xml:lang="en">Movement</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235">
+	<skos:prefLabel xml:lang="en">Repent</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<skos:prefLabel xml:lang="en">L3 (prostomium, peristomium and chaetiger 1)</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<skos:prefLabel xml:lang="en">Corrugated</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215">
+	<skos:prefLabel xml:lang="en">Crawler</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220">
+	<skos:prefLabel xml:lang="en">Reptant</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216">
+	<skos:prefLabel xml:lang="en">Vagile</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213">
+	<skos:prefLabel xml:lang="en">Swimmer</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214">
+	<skos:prefLabel xml:lang="en">Burrower</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217">
+	<skos:prefLabel xml:lang="en">Sessile</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218">
+	<skos:prefLabel xml:lang="en">Digger</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233">
+	<skos:prefLabel xml:lang="en">Clathrate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237">
+	<skos:prefLabel xml:lang="en">Insinuating</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<skos:prefLabel xml:lang="en">Encrusting</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<skos:prefLabel xml:lang="en">Massive</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<skos:prefLabel xml:lang="en">Maximum Body Size</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:prefLabel xml:lang="en">Head + First Three Pereionites</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:prefLabel xml:lang="en">Cephalothorax Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<skos:prefLabel xml:lang="en">Carapace Length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184">
+	<skos:prefLabel xml:lang="en">Gastropoda Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<skos:prefLabel xml:lang="en">Hispid</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_256">
+	<skos:prefLabel xml:lang="en">story</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<skos:prefLabel xml:lang="en">Conulose</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<skos:prefLabel xml:lang="en">Honeycombed</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<skos:prefLabel xml:lang="en">Papillate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<skos:prefLabel xml:lang="en">Areolated</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<skos:prefLabel xml:lang="en">Smooth</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<skos:prefLabel xml:lang="en">Spiny</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<skos:prefLabel xml:lang="en">Rugose</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<skos:prefLabel xml:lang="en">Velvety</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:prefLabel xml:lang="en">10th Setiger Width</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:prefLabel xml:lang="en">Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:prefLabel xml:lang="en">Rostro-carinal Diameter</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:prefLabel xml:lang="en">Bivalvia Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<skos:prefLabel xml:lang="en">Biovolume</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<skos:prefLabel xml:lang="en">Body Thickness</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_185">
+	<skos:prefLabel xml:lang="en">Taxon Specific Body Height</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<skos:prefLabel xml:lang="en">Pronotum length</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<skos:prefLabel xml:lang="en">Fibres</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<skos:prefLabel xml:lang="en">Sulcate</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_255">
+	<skos:prefLabel xml:lang="en">Cup Shaped</skos:prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:altLabel xml:lang="en">BL</skos:altLabel>
+	<skos:altLabel xml:lang="en">Total Body Length</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:altLabel xml:lang="en">Shell Length</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:altLabel xml:lang="en">Shell Breadth</skos:altLabel>
+	<skos:altLabel xml:lang="en">Shell Width</skos:altLabel>
+	<skos:altLabel xml:lang="en">Bivalvia Breadth</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:altLabel xml:lang="en">Head Capsule Width</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:altLabel xml:lang="en">WW</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:altLabel xml:lang="en">Body Fat</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:altLabel xml:lang="en">6th Chaetiger Width</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:altLabel xml:lang="en">SFDW</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:altLabel xml:lang="en">Dry Mass</skos:altLabel>
+	<skos:altLabel xml:lang="en">DW</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:altLabel xml:lang="en">FW</skos:altLabel>
+	<skos:altLabel xml:lang="en">Live Wet Weight</skos:altLabel>
+	<skos:altLabel xml:lang="en">Fresh Wet Weight</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:altLabel xml:lang="en">CW</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<skos:altLabel xml:lang="en">Dorso-Ventral Compressed</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:altLabel xml:lang="en">AFDW</skos:altLabel>
+	<skos:altLabel xml:lang="en">Ash Free Dry Mass</skos:altLabel>
+	<skos:altLabel xml:lang="en">Biomass</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:altLabel xml:lang="en">Size</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<skos:altLabel xml:lang="en">Medusoid</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<skos:altLabel xml:lang="en">Laterally Compressed</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<skos:altLabel xml:lang="en">Radiate</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<skos:altLabel xml:lang="en">Filamentous</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:altLabel xml:lang="en">CPL</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<skos:altLabel xml:lang="en">CL</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:altLabel xml:lang="en">10th Chaetiger Width</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:altLabel xml:lang="en">RD</skos:altLabel>
+	<skos:altLabel xml:lang="en">Rostro-carinal Length</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:altLabel xml:lang="en">Shell Height</skos:altLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:note xml:lang="en">Faulwetter S., et al., 2014 doi:10.3897/BDJ.2.e1024</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology/ Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596 · Source: OAI</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:note xml:lang="en">Rosati et al., 2012 doi:10.1016/j.ecss.2012.08.008</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:note xml:lang="en">McKinney, Richard A., Sarah M. Glatt, and Scott R. Williams. Allometric length-weight relationships for benthic prey of aquatic wildlife in coastal marine habitats. Wildlife Biology 10.4 (2004): 241-249.</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:note xml:lang="en">Rosati et al., 2012 doi:10.1016/j.ecss.2012.08.008</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:note xml:lang="en">Rosati et al., 2012 doi:10.1016/j.ecss.2012.08.008</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:note xml:lang="en">Schaefer et al., 1985 doi:10.1007/BF01992772</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:note xml:lang="en">Definition 2: Rosati et al., 2012 doi:10.1016/j.ecss.2012.08.008</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:note xml:lang="en">Rosati et al., 2012 doi:10.1016/j.ecss.2012.08.008</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:note xml:lang="en">Wardhaugh, C.W.,2013 doi:10.1111/aen.12032
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:note xml:lang="en">Gaspar, M.B., et al. 2002 doi: 10.1023/A:1021009031717
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:note xml:lang="en">Cressa, C., 1999. Dry mass estimates of some tropical aquatic insects. Rev. Biol. Trop., 47(1-2): 133-141.</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:note xml:lang="en">https://archive.org/stream/manualofmethodsi034768mbp#page/n29/mode/2up/search/wet+weight</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<skos:note xml:lang="en">http://www.dictionary.com/browse/spicule</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:note xml:lang="en">Wilson, G.D.F., 1983. Systematics of a Species Complex in the Deep-sea Genus Eurycope, with a revision of six previously described species. Bulletin of the Scripps Institution of oceanography, University of California Press, San Diego, vol. 25.
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:note xml:lang="en">Schulte-Hostedde, A. I., et al. 2001. doi:10.1139/cjz-79-6-1021</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:note xml:lang="en">Oliveira, V.M., et al., 2010. doi:10.1590/S1984-46702010000100022 
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:note xml:lang="en">Palmerini, R., Bianchi, C.N., 1994 doi10.1007/BF00349688</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<skos:note xml:lang="en">Kevrekidis T., 2004 doi:10.1023/B:HYDR.0000029971.11713.41</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:note xml:lang="en">Wetzel, M.A., 2005 doi:10.1007/s10152-005-0220-z</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:note xml:lang="en">Williner, V., et al., 2014 doi:10.3897/zookeys.457.6821
+
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:note xml:lang="en">Schmidt et al. 2006 doi:10.1016/j.earscirev.2006.05.004</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries · January 1997
+DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:note xml:lang="en">Fredette, T.J., Diaz, R.j., 1986 doi: 10.2307/1548387
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:note xml:lang="en">Petracco, M., et al., 2003 DOI: 10.1046/j.0173-9565.2003.00837.x
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:note xml:lang="en">Oliveira, V.M., et al., 2010. doi:10.1590/S1984-4670201000010002
+ </skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:note xml:lang="en">Lively C.M., 1986 doi:10.2307/2408804</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<skos:note xml:lang="en">Thesaurus of Sponge Morphology / Article in Smithsonian Libraries - January 1997 DOI: 10.5479/si.00810282.596</skos:note>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<skos:broader rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217"/>
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<skos:narrower rdf:resource="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_242">
+	<dct:created>2017-11-22 15:25:39</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_221">
+	<dct:created>2017-11-21 17:38:40</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_88">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_186">
+	<dct:created>2017-11-21 09:34:09</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_119">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_229">
+	<dct:created>2017-11-21 17:44:14</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_126">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_79">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_78">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_87">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_82">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_84">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_83">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_85">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_80">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_81">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_86">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_228">
+	<dct:created>2017-11-21 17:43:33</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_230">
+	<dct:created>2017-11-21 17:45:07</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_226">
+	<dct:created>2017-11-21 17:42:27</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_241">
+	<dct:created>2017-11-22 15:17:13</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_225">
+	<dct:created>2017-11-21 17:41:13</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_224">
+	<dct:created>2017-11-21 17:40:38</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_231">
+	<dct:created>2017-11-21 17:45:49</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_227">
+	<dct:created>2017-11-21 17:43:02</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_232">
+	<dct:created>2017-11-21 17:48:27</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_222">
+	<dct:created>2017-11-21 17:39:33</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_223">
+	<dct:created>2017-11-21 17:40:06</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_101">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_77">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_174">
+	<dct:created>2017-04-28 12:44:26</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<dct:created>2017-05-22 14:59:12</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_104">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_175">
+	<dct:created>2017-04-28 12:44:26</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_102">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_210">
+	<dct:created>2017-11-21 14:13:50</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_108">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_114">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_112">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_121">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_122">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_124">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_123">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<dct:created>2017-05-22 15:21:08</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<dct:created>2017-11-21 14:00:36</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_97">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_243">
+	<dct:created>2017-11-22 15:35:05</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_234">
+	<dct:created>2017-11-22 12:32:13</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_118">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_71">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_236">
+	<dct:created>2017-11-22 12:34:10</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<dct:created>2017-11-21 14:18:35</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_180">
+	<dct:created>2017-05-22 14:59:12</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_99">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_70">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_69">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_111">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_68">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_116">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_115">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_91">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_113">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_251">
+	<dct:created>2017-11-22 16:46:27</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<dct:created>2017-11-22 12:44:00</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_105">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_188">
+	<dct:created>2017-11-21 09:56:57</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<dct:created>2017-11-21 09:51:06</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_198">
+	<dct:created>2017-11-21 10:50:39</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_131">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<dct:created>2017-11-21 10:04:41</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_72">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_199">
+	<dct:created>2017-11-21 10:52:17</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_195">
+	<dct:created>2017-11-21 10:13:35</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_197">
+	<dct:created>2017-11-21 10:48:21</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_129">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_153">
+	<dct:created>2017-02-06 16:07:15</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_200">
+	<dct:created>2017-11-21 11:00:51</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_194">
+	<dct:created>2017-11-21 10:07:34</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_125">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_130">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_120">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_128">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<dct:created>2017-01-31 11:59:32</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_219">
+	<dct:created>2017-11-21 15:58:58</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<dct:created>2017-11-21 15:44:35</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_235">
+	<dct:created>2017-11-22 12:32:49</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_252">
+	<dct:created>2017-11-22 16:48:15</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_215">
+	<dct:created>2017-11-21 15:46:42</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_220">
+	<dct:created>2017-11-21 16:01:49</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_216">
+	<dct:created>2017-11-21 15:47:21</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_213">
+	<dct:created>2017-11-21 15:45:25</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_214">
+	<dct:created>2017-11-21 15:46:04</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_217">
+	<dct:created>2017-11-21 15:49:44</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_218">
+	<dct:created>2017-11-21 15:57:32</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_233">
+	<dct:created>2017-11-22 12:31:10</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_237">
+	<dct:created>2017-11-22 12:37:03</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_191">
+	<dct:created>2017-11-21 10:02:42</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_190">
+	<dct:created>2017-11-21 10:00:10</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_73">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_89">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_184">
+	<dct:created>2017-11-20 16:25:51</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_245">
+	<dct:created>2017-11-22 16:29:55</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_256">
+	<dct:created>2019-03-15 10:07:54</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_247">
+	<dct:created>2017-11-22 16:36:19</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_248">
+	<dct:created>2017-11-22 16:39:24</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_246">
+	<dct:created>2017-11-22 16:33:35</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_253">
+	<dct:created>2017-11-22 16:50:31</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_239">
+	<dct:created>2017-11-22 14:16:42</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_250">
+	<dct:created>2017-11-22 16:44:22</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_240">
+	<dct:created>2017-11-22 14:28:54</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_249">
+	<dct:created>2017-11-22 16:42:17</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_110">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_75">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_100">
+	<dct:created>2017-01-25 10:01:37</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<dct:created>2017-11-21 13:33:22</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_203">
+	<dct:created>2017-11-21 13:43:55</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_185">
+	<dct:created>2017-11-20 16:26:23</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_196">
+	<dct:created>2017-11-21 10:41:08</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<dct:created>2017-05-22 15:25:00</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<dct:created>2017-11-22 16:52:49</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_255">
+	<dct:created>2017-11-23 08:50:09</dct:created>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits">
+	<dct:modified>2017-11-22 14:31:26</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_95">
+	<dct:modified>2017-01-31 12:47:03</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_179">
+	<dct:modified>2017-05-22 15:00:38</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_181">
+	<dct:modified>2017-11-21 14:04:42</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_208">
+	<dct:modified>2017-11-21 14:13:15</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_243">
+	<dct:modified>2017-11-22 15:35:13</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_211">
+	<dct:modified>2017-11-22 12:46:16</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_238">
+	<dct:modified>2017-11-22 16:20:32</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_93">
+	<dct:modified>2017-01-31 12:24:42</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_187">
+	<dct:modified>2017-11-21 09:53:07</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_193">
+	<dct:modified>2017-11-21 10:05:01</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_117">
+	<dct:modified>2017-02-07 12:04:49</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_143">
+	<dct:modified>2017-01-31 12:03:22</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_212">
+	<dct:modified>2017-11-21 17:47:36</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_96">
+	<dct:modified>2017-01-31 12:44:12</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_94">
+	<dct:modified>2017-01-31 12:36:50</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_92">
+	<dct:modified>2017-01-31 12:06:11</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_98">
+	<dct:modified>2017-11-21 14:01:59</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_201">
+	<dct:modified>2017-11-22 16:05:47</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_182">
+	<dct:modified>2017-11-23 08:58:40</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits/c_254">
+	<dct:modified>2017-11-22 16:53:08</dct:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://kos.lifewatch.eu/thesauri/macrozoobenthostraits">
+	<dc:rights></dc:rights>
+	<dc:contributor></dc:contributor>
+	<dc:subject></dc:subject>
+	<dc:creator>LifeWatch Italy</dc:creator>
+	<dc:publisher></dc:publisher>
+	<dc:date>2015-03-30</dc:date>
+	<dc:language>en</dc:language>
+</rdf:Description>
+
+</rdf:RDF>
