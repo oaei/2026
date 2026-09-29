@@ -1,27 +1,22 @@
 body {
-    face: tahoma, arial;
-    font-family: sans-serif;
-    color: black;
-    text-align: justify;
-    background-color: white;
-    //background: url(./img/oaei_tiny.jpg) right top no-repeat ;
+	font-family: sans-serif;
+	color: black;
+	text-align: justify;
+	background-color: white;
+	//background: url(./img/oaei_tiny.jpg) right top no-repeat ;
 }
 
-div.header {
-    color: grey;
-    text-decoration: none;
-    font-size: 80%;
-}
+div.header { color: grey; text-decoration: none; font-size: 80%; }
 
 span.logo {
-    float: right;
-    /* to be updated with the img size */
-    width: 200px;
-    height: 200px;
-    /*not implemented yet -> css3 */
-    background-image: url(./img/oaei_tiny.jpg);
-    background-position: right top;
-    background-repeat: no-repeat;	
+	float:right;
+	/* to be updated with the img size */
+	width:200px;
+	height:200px;
+	/*not implemented yet -> css3 */
+	background-image: url(./img/oaei_tiny.jpg);
+	background-position: right top;
+	background-repeat: no-repeat;	
 }
 
 h1 { font-size: 200%; }
@@ -36,98 +31,188 @@ div.address {
 div.footer {
     font-size: 90%;
     text-align: center;
-    width: 100%;
+    width:100%;
     padding: 0.5em 0 0.5em 0em;
-    border-top:  1px ridge grey;
-    border-bottom:  1px ridge grey;
+    border-top: ridge grey;
+    border-bottom: ridge grey;
 }
+
 
 div.yellowbar{
-    text-align: center;
-    background-color: yellow;
-    width: 100%;	
+	text-align: center;
+	background-color: yellow;
+	width:100%;	
 }
 
+h1 {
+
+}
 a:link {  
-    color: #0074CA; 
-    text-decoration: none
+	color: #0074CA; 
+	text-decoration: none
 }
 
 a[href]:hover {  
-    color: #0074CA; 
-    text-decoration: none; 
-    background-color: #D3DBFE
+	color: #0074CA; 
+	text-decoration: none; 
+	background-color: #D3DBFE
 }
 a:visited {  
-    color: #0084E6; 
-    text-decoration: none
+	color: #0084E6; 
+	text-decoration: none
 }
 
-div.testsuite {
-    width: 70%;
-    background-color: #CFF;
-    padding: 5px;
-    border-width: 1px;
-    border-style: solid;
+
+table {
+
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	
 }
 
-div.testsuite span.title {
-    font-weight: bold;
+td {
+	text-align:center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
 
-div.testsuite span.testsuiteid {
-    font-family: monospace;
+td.right {
+	text-align:right;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
 
-table.res {
-    border: 1;
-    cellpadding: 4;
-    cellspacing: 0;
-    rules: COLS;
-    margin-left: auto;
-    margin-right: auto;
+td.bright {
+	text-align:right;
+	font-weight: bold;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+td.nobot {
+	text-align:center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 1px solid black;
+	border-bottom: 0px;
+}
+
+td.notop {
+	text-align:center;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-top: 0px;
+	border-bottom: 1px solid black;
+}
+
+
+body {
+	margin:15px;
 }
 
 td.text {
-    text-align: left; 
+	text-align:left;
+	font-style: italic;
+	font-weight: bold;
 }
 
-td.res { text-align: center; }
+td.bold {
+	font-weight: bold;
+}
+
+td.header {
+	text-align:center;
+	font-weight: bold;	
+}
 
 td.important {
-    border-left: 1px solid black;
-    border-right: 1px solid black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
 }
 
-td.bleft { 
-    border-left: 1px solid black; 
+td.bleft {
+	border-left: 1px solid black;
 }
 
-td.right { 
-    border-right: 1px solid black; 
+td.right {
+	border-right: 1px solid black;
 }
 
-tr.header td  { 
-    background-color: #CCC; 
-    font-weight: bold;
+td.total {
+	background-color:#DDD
 }
 
-tr.odd td  { 
-    background-color: #FFD; 
+td.italic {
+	font-style: italic;
 }
 
-tr.even td  { 
-    background-color: #FDF 
+
+
+tr.header td  {
+	background-color:#BFB;
 }
 
-tr.break td  { 
-    background-color: #EEE; 
+tr.odd td  {
+	background-color:#FFD;
 }
 
-span.small { 
-    font-size: smaller; 
+tr.even td  {
+	background-color:#DFF
 }
 
-caption { 
-    caption-side: bottom; 
+tr.base td  {
+	background-color:#DDD
 }
+
+
+
+
+
+tr.red td  {
+	background-color:#FDF
+}
+
+tr.blue td  {
+	background-color:#CCF
+}
+
+tr.break td  {
+	background-color:#EEE;
+}
+
+
+span.small {
+	font-size:smaller;
+}
+
+caption {
+	caption-side:bottom;
+} 
+
+
+div.testsuite {
+	width:50%;
+	background-color:#CFF;
+	border-width:1px;
+	border-style:solid;
+}
+
+div.testsuite span.title {
+	font-weight:bold;
+}
+
+div.testsuite span.testsuiteid {
+	font-family:monospace;
+	font-size:14;
+}
+
+
+
