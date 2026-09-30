@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Ontology Alignment Evaluation Initiative::Interactive</title>
-<link rel="stylesheet" type="text/css" href="http://oaei.ontologymatching.org/2016/style.css" />
+<link rel="stylesheet" type="text/css" href="../../style.css" />
 <style type="text/css">
 #Kopfbereich { position:absolute; top:20px; left:30px; }
 #table { position:static; top:100px; left:30px; }
@@ -616,9 +616,8 @@ In comparison to ALIN's non-interactive results, its precision, recall and F-mea
   The participants this year are partly same as in 2017 and 2018.
 -->
 
-  LogMap has participated in the track since it has been established in 2013.
-  ALIN has participated since 2016.
-  LogMap shows similar results to those of 2025.  For ALIN, there is a slightly increasing trend in terms of precision, recall, F-measure, recall+, the number of requests and the number of distinct mappings.
+  LogMap has participated in the track since it has been established in 2013, while ALIN has participated since 2016.
+  As there are no major changes for LogMap, its results are similar to those observed in 2025.  For ALIN, there is a slightly increasing trend in terms of precision, recall, F-measure, recall+, the number of requests and the number of distinct mappings, mainly due to the use of a more advanced LLM and the standardization of entity names in the FMA ontology.
    <!--
   
   For ALIN, there is a significant decrease in total requests and distinct mappings,  which dues to the introduction of ChatGPT, improvement of the lexical analyzers as well as the increased threshold for filtering out mappings.
@@ -627,7 +626,7 @@ In comparison to ALIN's non-interactive results, its precision, recall and F-mea
   ALIN has a strategy to standardize the terms with grammars, which contributes to the increase on the number of distinct mappings. -->
    <!-- In addition, the precision and recall of ALIN also increase over the all-knowing Oracle and the different error rates and ALIN shows similar results in F-measure and recall+.
 ALIN is the only system that makes more correct requests against incorrect requests as the error rate increases.-->
-  Similarly to the last year, the impact of the Oracle's errors is linear for ALIN and supralinear for LogMap.
+  As in the previous year, the impact of the Oracle's errors is linear for ALIN and supralinear for LogMap.
   </p>
  <figure style="text-align:center;">
   <img src="anatomy_boxplot_per_error_rate_multiple_runs.png"><br/>
@@ -700,7 +699,7 @@ The participants this year are partly the same systems as in 2018.
 -->
 The variation trends with respect to precision, recall, and F-measure in each system between interactive and non-interactive are similar. <!--ALIN shows an increase on all measures-->
 The influence due to the different error rates among these measures is also similar. 
-LogMap has similar results in comparison to the last year. For ALIN, similar to the results observed for the Anatomy dataset above, there is a slight increase in precision, recall, F-measure, Recall+, the number of requests, and the number of distinct mappings.
+LogMap has similar results in comparison to the last year. For ALIN, similar to the results observed for the Anatomy dataset above, the use of a more advanced LLM and the standardization of entity names in the ontologies lead to a slight increase in precision, recall, F-measure, Recall+, the number of requests, and the number of distinct mappings.
 <!--Both ALIN and LogMap have similar results in comparison to the last year.
 AML and LogMap have similar results in comparison to the last year.
 ALIN has a slightly decrease on all measures as error rate increases.-->
