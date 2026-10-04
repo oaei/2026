@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ontology Alignment Evaluation Initiative - MultiFarm Results for OAEI 2026</title>
+<style>
+body { font-family: Arial, Helvetica, sans-serif; margin: 30px auto; max-width: 1100px; line-height: 1.45; color: #222; }
+h1 { font-size: 28px; }
+h2 { margin-top: 30px; }
+h4 { margin-top: 22px; }
+table { border-collapse: collapse; margin: 14px 0 24px; width: 100%; }
+th, td { border: 1px solid #999; padding: 7px 9px; text-align: center; }
+th:first-child, td:first-child { text-align: left; }
+thead th { background: #eee; }
+.small { font-size: 0.92em; }
+.note { font-style: italic; }
+.header { margin-bottom: 25px; min-height: 125px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+<a href="http://oaei.ontologymatching.org/">
+        <img width="120px" src="oaeismall.jpg" style="float:right; margin-left: 15pt; border-style:none;">
+</a>
+
+<a href="http://web.informatik.uni-mannheim.de/multifarm/">
+        <img width="120px" src="mf-logo.jpg" style="clear:right;float:right; margin-left: 15pt; border-style:none;">
+</a>
+ 
+</div>
+
+<h1>MultiFarm Results for OAEI 2026</h1>
+
+<p>In this page, we report the results of the OAEI 2026 campaign for the MultiFarm track.
+The MultiFarm dataset is composed of a subset of the Conference dataset translated into
+nine different languages (Arabic, Chinese, Czech, Dutch, French, German, Hindi, Portuguese,
+Russian, Spanish and Turkish), together with corresponding reference alignments. The benchmark
+is intended to evaluate ontology matching approaches with a particular focus on multilingualism.
+The details on the dataset can be found at the <a href="https://oaei.ontologymatching.org/2026/">OAEI 2026 campaign page</a>.</p>
+
+<p>If you notice any kind of error (wrong numbers, incorrect information on a matching
+system, etc.) do not hesitate to contact us.</p>
+
+<h2>Experimental setting</h2>
+
+<p>We have conducted an evaluation based on the blind data set. This data set includes
+the matching tasks involving the edas and ekaw ontologies, resulting in 55 × 24 tasks.
+Participants were able to test their systems on the open subset of tasks. The open subset
+counts on 45 × 25 tasks and does not include Italian translations.</p>
+
+<p>We distinguish two types of matching tasks:</p>
+<ol>
+<li>tasks where two different ontologies (edas-ekaw, for instance) have been translated
+into two different languages;</li>
+<li>tasks where the same ontology (edas-edas) has been translated into two different languages.</li>
+</ol>
+
+<p>As in previous evaluations, results for type (ii), involving the same ontology structure
+in different languages, can benefit from the structural similarity of the ontologies.
+For the 2026 campaign, the results reported here focus on matching tasks involving
+different ontologies (type (i)).</p>
+
+<h2>Participants</h2>
+
+<p>This year, <strong>eight systems</strong> participated in the MultiFarm track:
+LogMap-KG, LogMap-Bio, LogMapLite, LogMap, SeCea, Matcha, LSMatch Multilingual 2.0,
+and TIM. The participating systems include several LogMap-family configurations as well
+as multilingual and other matching approaches. Readers can refer to the respective OAEI
+system papers for detailed descriptions of the strategies adopted by each system.</p>
+
+<h2>Evaluation results</h2>
+
+<h3>Overall results</h3>
+<p>The table below presents the results for the matching tasks.</p>
+<table>
+<thead><tr><th>System</th><th>Prec</th><th>F1</th><th>Rec</th></tr></thead>
+<tbody><tr><td>LogMap-KG</td><td>0.890</td><td>0.009</td><td>0.004</td></tr>
+<tr><td>LogMap-Bio</td><td>0.881</td><td>0.009</td><td>0.004</td></tr>
+<tr><td>LogMapLite</td><td>0.839</td><td>0.008</td><td>0.004</td></tr>
+<tr><td>LogMap</td><td>0.890</td><td>0.009</td><td>0.004</td></tr>
+<tr><td>SeCea</td><td>0.381</td><td>0.241</td><td>0.176</td></tr>
+<tr><td>Matcha</td><td>0.527</td><td>0.231</td><td>0.148</td></tr>
+<tr><td>LSMatch Multilingual 2.0</td><td>0.742</td><td>0.412</td><td>0.285</td></tr>
+<tr><td>TIM</td><td>0.847</td><td>0.010</td><td>0.005</td></tr></tbody>
+</table>
+
+<h2>Discussion of the results</h2>
+<p>The results show substantial variation across the participating systems. LSMatch Multilingual 2.0 reports a precision of 0.742, recall of 0.285, and F1 of 0.412. Matcha reports a precision of 0.527, recall of 0.148, and F1 of 0.231, while SeCea reports a precision of 0.381, recall of 0.176, and F1 of 0.241.</p>
+
+<p>The LogMap-family systems show high precision but very low recall. LogMap-KG and LogMap report identical values of 0.890 precision, 0.009 F1, and 0.004 recall. LogMap-Bio reports 0.881 precision, 0.009 F1, and 0.004 recall, while LogMapLite reports 0.839 precision, 0.008 F1, and 0.004 recall. TIM similarly reports relatively high precision (0.847) but very low recall (0.005) and F1 (0.010).</p>
+
+<h2>Conclusions</h2>
+<p>The 2026 MultiFarm campaign included eight participating systems and continued the evaluation of multilingual ontology matching on the MultiFarm benchmark. The results show clear differences in the balance between precision and recall. LSMatch Multilingual 2.0 reports 0.742 precision, 0.285 recall, and 0.412 F1, while Matcha and SeCea report F1 values of 0.231 and 0.241, respectively. The LogMap-family configurations and TIM generally combine relatively high precision with very low recall.</p>
+
+<h2>References</h2>
+<p>[1] Christian Meilicke, Raul Garcia-Castro, Fred Freitas, Willem Robert van Hage,
+Elena Montiel-Ponsoda, Ryan Ribeiro de Azevedo, Heiner Stuckenschmidt,
+Ondrej Svab-Zamazal, Vojtech Svatek, Andrei Tamilin, Cassia Trojahn, Shenghui Wang.
+<strong>MultiFarm: A Benchmark for Multilingual Ontology Matching.</strong>
+Journal of Web Semantics.</p>
+
+<p>An authors version of the paper can be found at the
+<a href="https://www.irit.fr/research/SIG/MELODI/multifarm/">MultiFarm homepage</a>,
+where the data set is described in detail.</p>
+
+<h2>Contact</h2>
+<p>This track is organized by Beyza Yaman, Abhisek Sharma, Sarika Jain and Cassia Trojahn
+dos Santos. If you have any problems working with the ontologies, any questions or
+suggestions, please contact the track organizers.</p>
+
+</body>
+</html>
